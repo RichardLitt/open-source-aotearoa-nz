@@ -15,6 +15,10 @@ A list of open source projects I've found in Aotearoa New Zealand
 - [Catalyst](https://www.catalyst.net.nz/stories-and-studies/catalyst-blog/tag/open-source-and-innovation)
   - [Open Source Awards](https://nzosa.org.nz/)
 
+## Users
+
+- [@GOVTNZ](https://github.com/GOVTNZ) - Digital.govt.nz account
+
 ## Events
 
 - https://www.osgeo.org/initiatives/foss4g/
