@@ -1,6 +1,10 @@
 # open-source-aotearoa-nz
 A list of open source projects I've found in Aotearoa New Zealand
 
+## Stats
+
+- [R](https://www.r-project.org/)
+
 ## Wildlife
 
 - [Wildlife.ai](https://wildlife.ai/projects/)
