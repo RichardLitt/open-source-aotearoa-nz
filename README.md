@@ -20,6 +20,10 @@ A list of open source projects I've found in Aotearoa New Zealand
 - [Open Source Awards](https://nzosa.org.nz/)
 - [SilverStripe](https://github.com/silverstripe/silverstripe-cms)
 
+## Libraries
+
+- [Koha](https://en.wikipedia.org/wiki/Koha_(software))
+
 ## Users
 
 - [@GOVTNZ](https://github.com/GOVTNZ) - Digital.govt.nz account
