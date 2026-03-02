@@ -23,6 +23,7 @@ A list of open source projects I've found in Aotearoa New Zealand
 ## Libraries
 
 - [Koha](https://en.wikipedia.org/wiki/Koha_(software))
+- [Enro](https://github.com/isaac-udy/Enro) - Android navigation library
 
 ## Users
 
